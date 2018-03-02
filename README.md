@@ -15,7 +15,8 @@ CS+X 成員帶大家從基礎開始實作發展速度很快的深度學習框架
 
 > 參與方式：
 1. 想分享論文者，請直接跟聯絡人聯繫( soilwater0723@gmail.com )。
-2. 想參與當周活動者請定期在 Pytorch taiwan FB 粉絲頁注意消息並點選報名。  https://www.facebook.com/groups/2027602154187130/ 
+或直接填寫表單Pytorch戰力籌備表單 https://goo.gl/forms/qCRgxGZWVL3MnvNe2
+2. 想參與當周活動者請定期在 Pytorch taiwan FB 粉絲頁注意消息並點選報名。  https://www.facebook.com/groups/2027602154187130/ 
 3. 參與 Pytorch 實作者請先安裝好套件並帶著您的電腦。
 
 * 地點：台大普通教學大樓 305 教室 (約可容納 100 人)
