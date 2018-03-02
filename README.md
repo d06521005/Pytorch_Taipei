@@ -31,10 +31,10 @@ CS+X 成員帶大家從基礎開始實作發展速度很快的深度學習框架
 
 * 其他熱心分享者整理中
 
-* 相關連結：
 
-為什麼 PyTorch 這麼火？一線開發者這樣說
+## 相關連結：
+* 為什麼 PyTorch 這麼火？一線開發者這樣說
 https://www.hksilicon.com/articles/1332093
 
-PyTorch 資源大補帖
+* PyTorch 資源大補帖
 https://github.com/ritchieng/the-incredible-pytorch
