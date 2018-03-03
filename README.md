@@ -25,8 +25,7 @@ CS+X 成員帶大家從基礎開始實作發展速度很快的深度學習框架
 ## 成員簡介：
 * 發起人： Marcel Wang http://hemingwang.blogspot.tw/2018/01/pytorchpytorch-taipei_20.html
 
-* NTU CS+X 成員：Pecu, JiYu, ChangRun, JunHao, JunJie http://csx.ntu.edu.tw/　
-https://www.facebook.com/ntucsx/
+* NTU CS+X 成員：Pecu, JiYu, ChangRun, JunHao, JunJie http://csx.ntu.edu.tw/
 
 * 主聯繫人：
 
