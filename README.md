@@ -44,3 +44,6 @@ https://www.hksilicon.com/articles/1332093
 
 * PyTorch 資源大補帖
 https://github.com/ritchieng/the-incredible-pytorch
+
+* PyTorch 團隊發表週年感言：感謝日益壯大的社區，這一年迎來六大核心突破
+https://hk.saowen.com/a/ba454ac1e763b77e1ee6c32459752c302e465cffb9c70edb40b9d94495f26b37
